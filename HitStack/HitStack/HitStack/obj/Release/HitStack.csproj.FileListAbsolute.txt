@@ -1,0 +1,10 @@
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\bin\Release\HitStack.exe.config
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\bin\Release\HitStack.exe
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\bin\Release\HitStack.pdb
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\obj\Release\HitStack.csprojAssemblyReference.cache
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\obj\Release\HitStack.Form1.resources
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\obj\Release\HitStack.Properties.Resources.resources
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\obj\Release\HitStack.csproj.GenerateResource.cache
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\obj\Release\HitStack.csproj.CoreCompileInputs.cache
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\obj\Release\HitStack.exe
+C:\Users\Jayden\Desktop\HitStack\HitStack\HitStack\obj\Release\HitStack.pdb
